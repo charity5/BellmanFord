@@ -1,7 +1,6 @@
 Programming Assignment 2
 
-Name: Lin Su
-UNI: ls3201
+Author: Lin Su
 
 This is the distributed client using Bellman-Ford algorithm. The work is built using Java. Clients may be distributed across different machines and more than one client can be on the same machine.
 Clients are identified by an <IP address, Port Number> tuple. Each client process gets the set of neighbors, the link weight and a timeout value from input txt file.
